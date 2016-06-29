@@ -1,0 +1,218 @@
+body {
+	height: auto;
+	width: 960px auto;
+	background-image: url(/Users/LuiSantana/Desktop/Bootcamp/Week1/Basic-Portfolio/assets/images/greyzz.png);
+	line-height: 150%;
+}
+header{
+	background-color: #ffffff;
+	font-family: georgia, times, times New Roman, serif;
+	padding-left: 150px;
+	padding-right: 72px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: 0 top;
+	position: 0 left;
+	float: left;
+	position: relative;
+	margin-bottom: 5px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 2px;
+	border-right-style: hidden;
+	border-top-style:hidden;
+	border-left-style: hidden;
+}
+nav{ 
+	background-color: #ffffff;
+	font-family: georgia, times, times New Roman, serif;
+	float: right;
+	position: relative;
+	position: 0 top;
+	position: 0 right;
+	float: right;
+	width: 350px;
+	padding-left: 73px;
+	padding-right: 150px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 2px;
+	border-right-style: hidden;
+	border-top-style:hidden;
+	border-left-style: hidden;
+}
+section{
+	font-family: arial, helvetica nueu, helvetica, sans-serif;
+	color: #777777;
+	padding: 10px 5px;
+	border-style: solid;
+	border-color: #dddddd;
+	border-width: 1px 1px;
+	width: 650px;
+	height: 470px;
+	margin-left: 150px;
+	margin-top: 5px;
+	margin-bottom: 40px;
+	float: left;
+	background-color: #ffffff;
+}
+aside{
+	font-family: arial, helvetica nueu, helvetica, sans-serif;
+	float: right;
+	height:auto;
+	background-color:#ffffff;
+	padding: 45px 45px;
+	border-style: solid;
+	border-color: #dddddd;
+	border-width: 1px 1px;
+	margin-top: 5px;
+	margin-right: 140px;
+	width: auto;
+}
+footer{
+	font-family: arial, helvetica nueu, helvetica, sans-serif;
+	background-color: #666666;
+	height:100%;
+	text-align: center;
+	border-top-style: solid;
+	border-right-style: hidden;
+	border-bottom-style:hidden;
+	border-left-style: hidden;
+	border-color:#4aaaa5;
+	border-width: 5px;
+	clear:both;
+}
+h1 {
+	background-color:#4aaaa5;
+	font-family:Georgia,Times,Times New Roman, serif;
+	color:#ffffff;
+	padding: 30px 20px;
+}
+h2 {
+	color: #4aaaa5;
+	background-color: #ffffff;
+	width: 100px;
+}
+.myname {
+	padding:30px 10px;
+	font-size: 35px;
+	text-align: center;
+	width: 450px;
+}
+.navthings{
+	color: #777777;
+	border: color #dddddd; 
+}
+#footercolor{
+	color: rgb(180,180,180);
+	background-color: #666666;
+	padding: 30px 30px;
+	overflow: auto;
+}
+.h2insection {
+	font-size: 30px;
+	padding: 20px;
+	width: 200px;
+}
+.h2inaside {
+	width: 200px;
+	text-align: center;
+	font-size: 25px;
+}
+p {
+	background-color: #ffffff;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom:50px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.home {
+	float:right;
+	padding:10px;
+	width: 80px;
+	display: inline;
+	border-right: 1px solid #bbb;
+	text-align: center;
+}
+.wrapper{
+	height:700px;
+}
+.portfolio {
+	float:right;
+	padding: 10px;
+	width: 80px;
+	display: inline;
+	border-right: 1px solid #bbb;
+	text-align: center;
+}
+.porsection{
+	width: 650px;
+	height: 100%;
+}
+.contact {
+	float:right;
+	padding: 10px;
+	width: 80px;
+	display: inline;
+	text-align: center;
+}
+.active {
+	background-color:rgb( 120, 130, 200);
+}
+.github{
+	margin: 5px 5px;
+}
+.linkedin{
+	margin: 5px 5px;
+}
+.stack{
+	margin: 5px 5px;
+}
+.responsive{
+	padding: 0 6px;
+    float: left;
+    width: auto;
+}
+div.images1to5{
+	text-align: center;
+	background-color:#4aaaa5;
+}
+input[type=text], select {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 15px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 95%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+ }
+ input[type=submit] {
+    background-color:#4aaaa5; 
+    width: 145px;
+    margin-left: 15px;
+}
+#message {
+	height: 120px;
+
+	
+
+}
